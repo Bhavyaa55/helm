@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chat-buddy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-21T19:04:15.683757779+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 81cc066b3f8d57bb400c429b559c5e4c22be50dd1bb13a8816b9c3f597ba3386
+    name: chat-buddy
+    type: application
+    urls:
+    - chat-buddy-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-21T19:04:15.676748169+05:30"
